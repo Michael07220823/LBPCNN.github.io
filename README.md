@@ -1,2 +1,2 @@
-# lbpnn.github.io
+# lbpcnn.github.io
 LBPCNN Face Recognition Algorithm.
